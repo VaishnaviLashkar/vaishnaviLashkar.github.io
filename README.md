@@ -58,15 +58,7 @@
     <section>
         <p>Hello Everyone,</p>
 
-        <p>I am Lashkar Vaishnavi, currently pursuing a master's degree in Computer Science at Old Dominion University. Hailing from the culturally rich city of Hyderabad in southern India, known for its heritage, famous monuments, and thriving trade and commerce, I am proud to bring a diverse perspective to my academic journey. Completing my undergraduate studies in 2020, I come with three years of valuable experience as a System Engineer, contributing significantly to top multinational corporations such as Wipro, Virtusa, and Infosys.</p>
-
-        <p>My professional odyssey has involved shaping technological landscapes, and I am thrilled to embark on this new academic venture. The decision to enroll in this course stems from my eagerness to delve into the realm of Data Science, aiming to acquire valuable skills for exciting career opportunities in this dynamic field.</p>
-
-        <p>Beyond the world of technology, I find joy in reading books and dancing, indulging in diverse interests that enrich my life. I'm genuinely excited about the learning journey ahead and look forward to a great semester with all of you.</p>
-
-        <p>Best wishes to everyone for a successful and fulfilling semester!</p>
-
-        <p>Warm regards, <br> Lashkar Vaishnavi</p>
+        <p>i</p>
     </section>
 </body>
 
@@ -76,7 +68,18 @@
 You can copy and paste this code into an HTML file and open it in a web browser to view the webpage. Feel free to customize the styles and structure further based on your preferences..</p>
     </section>
     <footer>
-        <p>Best regards, Vaishnavi Lashkar</p>
+        <p>Greetings Everyone,
+
+I am Lashkar Vaishnavi, currently pursuing a master's degree in Computer Science at Old Dominion University. Hailing from the culturally rich city Hyderabad in southern India, known for its heritage, famous monuments, and thriving trade and commerce, I am proud to bring a diverse perspective to my academic journey. Completing my undergraduate studies , I come with three years of valuable experience as a System Engineer, contributing significantly to top multinational corporations such as Wipro and Infosys.
+
+My professional odyssey has involved shaping technological landscapes, and I am thrilled to embark on this new academic venture. The decision to enroll in this course stems from my eagerness to delve into the realm of Data Science, aiming to acquire valuable skills for exciting career opportunities in this dynamic field.
+
+Beyond the world of technology, I find joy in reading books and dancing, indulging in diverse interests that enrich my life. I'm genuinely excited about the learning journey ahead and look forward to a great semester with all of you.
+
+Best wishes to everyone for a successful and fulfilling semester!
+
+Warm regards,
+ Vaishnavi Lashkar</p>
     </footer>
 </body>
 </html>
