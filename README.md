@@ -65,9 +65,7 @@
 </html>
 ```
 
-You can copy and paste this code into an HTML file and open it in a web browser to view the webpage. Feel free to customize the styles and structure further based on your preferences..</p>
-    </section>
-    <footer>
+
         <p>Hello Everyone,
 
 I am Lashkar Vaishnavi, currently pursuing a master's degree in Computer Science at Old Dominion University. Hailing from the culturally rich city Hyderabad in southern India, known for its heritage, famous monuments, and thriving trade and commerce, I am proud to bring a diverse perspective to my academic journey. Completing my undergraduate studies, I come with three years of valuable experience as a System Engineer, contributing significantly to top multinational corporations.
