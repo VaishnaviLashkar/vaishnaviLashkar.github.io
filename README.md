@@ -56,9 +56,8 @@
         <h1>Lashkar Vaishnavi - Introduction</h1>
     </header>
     <section>
-        <p>Hello Everyone,</p>
-
-        <p>i</p>
+      
+ <header>
     </section>
 </body>
 
