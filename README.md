@@ -125,7 +125,7 @@
     <footer>
         <p style="text-align: center;">Connect with me on social media:</p>
         <div>
-            <a href="https://www.linkedin.com/in/your-linkedin-profile" class="btn btn-secondary" target="_blank">
+             <a href="https://www.linkedin.com/in/lashkarvaishnavi0730/" class="btn btn-secondary" target="_blank"
                 <img src="https://pngimg.com/d/linkedIn_PNG24.png" alt="LinkedIn Logo">
             </a>
             <a href="mailto:vaishnavilashkar27@gmail.com" class="btn btn-secondary">
