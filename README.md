@@ -11,8 +11,17 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 20px;
             line-height: 1.6;
-            background: linear-gradient(to right, #4cb8c4, #3cd3ad, #28a19f);
+            background: url('https://th.bing.com/th/id/R.ea80e8bcf70c0a180cdc6905afb3f1c1?rik=AOnT7YkygFDSYg&riu=http%3a%2f%2fbackgroundcheckall.com%2fwp-content%2fuploads%2f2017%2f12%2fwebsite-background-design.jpg&ehk=wPsIeo20SzI7GQwdyLJG6CMUKL9Awn4f6CnGiNdUxJg%3d&risl=&pid=ImgRaw&r=0') center/cover no-repeat, linear-gradient(to right, #4cb8c4, #3cd3ad, #28a19f);
             color: #333;
+section {
+           
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+            text-align: center; /* Center the content in the section */
+        }
+
         }
 
         header {
@@ -32,7 +41,7 @@
         }
 
         section {
-            background: url('https://github.com/VaishnaviLashkar/vaishnaviLashkar.github.io/blob/main/html_background.jpg') center/cover no-repeat, linear-gradient(to right, #4cb8c4, #3cd3ad, #28a19f);
+            #background: url('https://github.com/VaishnaviLashkar/vaishnaviLashkar.github.io/blob/main/html_background.jpg') center/cover no-repeat, linear-gradient(to right, #4cb8c4, #3cd3ad, #28a19f);
             padding: 30px;
             border-radius: 8px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
@@ -54,13 +63,13 @@
         }
 
         .btn-primary {
-            background-color: #007BFF;
-            color: #fff;
+            background-color:;
+            color: #000000;
             border: none;
         }
 
         .btn-secondary {
-            background-color: #333;
+            background-color:;
             color: #fff;
             border: none;
         }
@@ -73,7 +82,7 @@
         }
 
         .btn:hover {
-            background-color: #0056b3;
+            background-color: #008080;
             border-color: #0056b3;
         }
 
@@ -82,24 +91,28 @@
         }
 
         footer {
-            text-align: center;
+            text-align:center;
             margin-top: 30px;
             padding: 10px;
-            background-color: #333;
-            color: #fff;
+            background-color:none;
+            color: #000000;
             border-radius: 5px;
         }
 
         .transparent-bg {
             background: rgba(0, 0, 0, 0); /* Transparent background */
         }
+.social-media-text {
+    text-align: center;
+}
+
     </style>
 </head>
 
 <body>
     <header>
         <h1>Lashkar Vaishnavi</h1>
-        <p>Master's in Computer Science | Data Science Enthusiast</p>
+        <p class="social-media-text">Master's in Computer Science | Data Science Enthusiast</p>
     </header>
     <section class="transparent-bg">
         <img src="https://raw.githubusercontent.com/VaishnaviLashkar/vaishnaviLashkar.github.io/main/20231030_173646.jpg" alt="Image Description" style="width: 25%; max-height: 800px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px;">
@@ -123,7 +136,8 @@
         </div>
     </section>
     <footer>
-        <p>Connect with me on social media:</p>
+        <p class="social-media-text">Connect with me on social media:</p>
+
         <div>
             <a href="https://www.linkedin.com/in/lashkarvaishnavi0730/" class="btn btn-secondary" target="_blank">
                 <img src="https://pngimg.com/d/linkedIn_PNG24.png" alt="LinkedIn Logo">
@@ -132,7 +146,7 @@
                 <img src="https://th.bing.com/th/id/R.a26185e75fd12b01df8e024188cfce26?rik=rz2a%2f2gDT35FWg&riu=http%3a%2f%2fwww.computersupport.gr%2fimages%2femail_icon.png&ehk=oHbHDbsw1036Ch5I%2bCuNJu2CNPgMYZB%2bD%2fa1IBvMpvY%3d&risl=&pid=ImgRaw&r=0" alt="Mail Logo">
             </a>
         </div>
-        <p>&copy; 2024 Lashkar Vaishnavi. All Rights Reserved.</p>
+        <p class="social-media-text">&copy; 2024 Lashkar Vaishnavi. All Rights Reserved.</p>
 
         <script>
             document.getElementById('downloadResume').addEventListener('click', function () {
