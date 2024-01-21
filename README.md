@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -32,7 +33,7 @@
         }
 
         section {
-            background-color: #fff;
+            background: url('https://github.com/VaishnaviLashkar/vaishnaviLashkar.github.io/blob/main/html_background.jpg') center/cover no-repeat, linear-gradient(to right, #4cb8c4, #3cd3ad, #28a19f);
             padding: 30px;
             border-radius: 8px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
@@ -99,7 +100,7 @@
 <body>
     <header>
         <h1>Lashkar Vaishnavi</h1>
-        <p style="text-align: center;">Master's in Computer Science | Data Science Enthusiast</p>
+        <p>Master's in Computer Science | Data Science Enthusiast</p>
     </header>
     <section class="transparent-bg">
         <img src="https://raw.githubusercontent.com/VaishnaviLashkar/vaishnaviLashkar.github.io/main/20231030_173646.jpg" alt="Image Description" style="width: 25%; max-height: 800px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px;">
@@ -123,16 +124,16 @@
         </div>
     </section>
     <footer>
-        <p style="text-align: center;">Connect with me on social media:</p>
+        <p>Connect with me on social media:</p>
         <div>
-             <a href="https://www.linkedin.com/in/lashkarvaishnavi0730/" class="btn btn-secondary" target="_blank"
+            <a href="https://www.linkedin.com/in/lashkarvaishnavi0730/" class="btn btn-secondary" target="_blank">
                 <img src="https://pngimg.com/d/linkedIn_PNG24.png" alt="LinkedIn Logo">
             </a>
             <a href="mailto:vaishnavilashkar27@gmail.com" class="btn btn-secondary">
                 <img src="https://th.bing.com/th/id/R.a26185e75fd12b01df8e024188cfce26?rik=rz2a%2f2gDT35FWg&riu=http%3a%2f%2fwww.computersupport.gr%2fimages%2femail_icon.png&ehk=oHbHDbsw1036Ch5I%2bCuNJu2CNPgMYZB%2bD%2fa1IBvMpvY%3d&risl=&pid=ImgRaw&r=0" alt="Mail Logo">
             </a>
         </div>
-        <p style="text-align: center;">&copy; 2024 Lashkar Vaishnavi. All Rights Reserved.</p>
+        <p>&copy; 2024 Lashkar Vaishnavi. All Rights Reserved.</p>
 
         <script>
             document.getElementById('downloadResume').addEventListener('click', function () {
